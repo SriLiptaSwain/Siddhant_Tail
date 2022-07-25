@@ -18,8 +18,6 @@ import { Dialog, Menu, Transition } from '@headlessui/react';
 import {
   BellIcon,
   CalendarIcon,
-  CogIcon,
-  CursorClickIcon,
   FolderIcon,
   HomeIcon,
   MenuAlt2Icon,
@@ -48,7 +46,6 @@ const userNavigation = [
   { name: 'Settings', href: '#' },
   { name: 'Sign out', href: '#' },
 ];
-
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ');

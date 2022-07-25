@@ -365,7 +365,7 @@ export default function Example() {
                               {item.d}
                               <span className="sr-only">
                                 {' '}
-                                {item.name} stats
+                                {item.stat} stats
                               </span>
                             </a>
                           </div>

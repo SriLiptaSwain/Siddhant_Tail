@@ -19,8 +19,6 @@ import {
   BellIcon,
   CalendarIcon,
   ChevronRightIcon,
-  CogIcon,
-  CursorClickIcon,
   DotsVerticalIcon,
   FilterIcon,
   FolderIcon,
