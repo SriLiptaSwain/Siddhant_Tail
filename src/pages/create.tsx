@@ -18,8 +18,6 @@ import { Dialog, Menu, Transition } from '@headlessui/react';
 import {
   BellIcon,
   CalendarIcon,
-  CogIcon,
-  CursorClickIcon,
   FolderIcon,
   HomeIcon,
   MenuAlt2Icon,
